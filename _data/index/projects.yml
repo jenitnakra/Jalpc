@@ -4,6 +4,7 @@
 - name: Outlook-Opinion Mining
   i18n: oom
   gh_user: jarrekk
+  url: https://github.com/jenitnakra/Outlook-Opinion-Mining
   repo: Jalpc
   img: /static/assets/img/landing/jekyll.png
   desc: This is my Minor2 project. I use Natural language processing and python to perform the sentiment analysis on the tweets fetched from the twitter.
@@ -11,6 +12,8 @@
 - name: Face Recognization using OpenCV
   i18n: fruo
   gh_user: python
+  url: https://github.com/jenitnakra/Face-Recognization-with-OpenCV
+
   repo: cpython
   img: /static/assets/img/landing/python.png
   desc: This is my first project on machine learning.The Project includes face detection and recognization on the human faces using the OpenCV.
