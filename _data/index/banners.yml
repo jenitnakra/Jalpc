@@ -5,5 +5,5 @@
 - src: landing/header_one.gif
   title: first banner image
 
-#- src: landing/header_two.gif
-#  title: second banner image
+- src: landing/header_two.gif
+ title: second banner image
