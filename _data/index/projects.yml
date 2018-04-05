@@ -6,7 +6,7 @@
   gh_user: jarrekk
   url: https://github.com/jenitnakra/Outlook-Opinion-Mining
   repo: Jalpc
-  img: /static/assets/img/landing/jekyll.png
+  img: /static/assets/img/landing/python.png
   desc: This is my Minor2 project. I use Natural language processing and python to perform the sentiment analysis on the tweets fetched from the twitter.
 
 - name: Face Recognization using OpenCV
@@ -15,11 +15,11 @@
   url: https://github.com/jenitnakra/Face-Recognization-with-OpenCV
 
   repo: cpython
-  img: /static/assets/img/landing/python.png
+  img: /static/assets/img/landing/face.png
   desc: This is my first project on machine learning.The Project includes face detection and recognization on the human faces using the OpenCV.
 
 - name: StakX-A manager for Banking and Retail Files.
   i18n: google
   url: https://google.com
-  img: /static/assets/img/landing/google.png
+  img: /static/assets/img/landing/c.png
   desc: This is my Minor1 project.A file manger which manages banking and retail files under single roof.
