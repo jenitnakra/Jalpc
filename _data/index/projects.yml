@@ -20,6 +20,6 @@
 
 - name: StakX-A manager for Banking and Retail Files.
   i18n: google
-  url: https://google.com
+  url: https://github.com/jenitnakra/Stakx-A-manager-for-Banking-and-Retail-Files.
   img: /static/assets/img/landing/c.png
   desc: This is my Minor1 project.A file manger which manages banking and retail files under single roof.
