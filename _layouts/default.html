@@ -5,17 +5,17 @@ layout: compress
 <!DOCTYPE html>
 <html lang="en">
 
-   <!-- {% if page.title != 'index' %}-->
-<!--         {% include head.html %} -->
-    <!--{% else %}
-       {% include index_head.html %}
-    {% endif %}-->
-
-<!--<body id="page-top" class="landing-page">
-
     {% if page.title != 'index' %}
-        {% include blog_header.html %}
+        {% include head.html %} 
+    {% else %}
+       {% include index_head.html %}
     {% endif %}
+
+<body id="page-top" class="landing-page">
+
+  <!--  {% if page.title != 'index' %}
+        {% include blog_header.html %}
+    {% endif %}-->
 
     {{ content }}
 
