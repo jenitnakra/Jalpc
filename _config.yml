@@ -1,8 +1,8 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: Jenit 
-description: My portfolio.
+title: Jenit Nakra
+description: My Portfolio.
 keywords: 
 baseurl:  / # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
 url: https://jenitnakra.github.io  # url should be 'http://<github_username>.github.io/homepage' as before
